@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muncey
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on C#, Java, Vue.js
+- 🌱 I’m currently learning react, cardano and hardhat
+- 💞️ I’m looking to collaborate on C#, Java, Vue.js and React
 - 📫 How to reach me philip.munce@gmail.com
 
 <!---
