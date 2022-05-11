@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on C#, Java, Vue.js
-- 📫 How to reach me https://twitter.com/MuncePhilip
+- 📫 How to reach me philip.munce@gmail.com
 
 <!---
 muncey/muncey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
